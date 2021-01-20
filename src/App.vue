@@ -18,10 +18,10 @@
           >
         </v-avatar>
         <div class="white--text text-subtitle-1 font-weight-bold">
-          Danny Connell
+          Tanjak
         </div>
         <div class="white--text text-subtitle-2">
-          danny__connell
+          Tanjak7Tech
         </div>
       </v-img>
 

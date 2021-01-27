@@ -13,8 +13,8 @@
       >
         <v-avatar size="70" class="mb-2">
           <img
-            src="https://s.gravatar.com/avatar/ce7f3697e231df38b3ca6065848520da?s=160"
-            alt="Danny Connell"
+            src="assets/tanjak.jpg"
+            alt="Tanjak7Tech"
           >
         </v-avatar>
         <div class="white--text text-subtitle-1 font-weight-bold">
